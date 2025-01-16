@@ -1,6 +1,6 @@
 package estudo2.dominio;
 
-public class Filme {
+public abstract class Titulo {
 
     private String nomeFilme;
     private int anoFilme;
@@ -9,14 +9,15 @@ public class Filme {
     private int totalAvaliacao;
     private int duracaoEmMinutos;
 
-    public Filme(String nomeFilme, int anoFilme, boolean incluidoNoPlano, double avaliacao, int totalAvaliacao, int duracaoEmMinutos) {
+    public Titulo(String nomeFilme, int anoFilme, boolean incluidoNoPlano, int duracaoEmMinutos, int totalAvaliacao, double avaliacao) {
         this.nomeFilme = nomeFilme;
         this.anoFilme = anoFilme;
         this.incluidoNoPlano = incluidoNoPlano;
-        this.avaliacao = avaliacao;
-        this.totalAvaliacao = totalAvaliacao;
         this.duracaoEmMinutos = duracaoEmMinutos;
+        this.totalAvaliacao = totalAvaliacao;
+        this.avaliacao = avaliacao;
     }
+
 
     public String getNomeFilme() {
         return nomeFilme;

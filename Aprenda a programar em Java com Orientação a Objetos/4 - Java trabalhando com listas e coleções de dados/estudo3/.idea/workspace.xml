@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d361f416-4323-40e9-9511-59a70f782484" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/estudo1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/src/Desafio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/src/exe1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/src/exe2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/src/exe3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/src/exe4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/src/exe5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo1/src/exe6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/src/main/java/estudo2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/src/main/java/estudo2/dominio/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/src/main/java/estudo2/dominio/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/src/main/java/estudo2/dominio/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/src/main/java/estudo2/dominio/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/src/main/java/estudo2/dominio/Musica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/src/main/java/estudo2/dominio/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/src/site/site.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/src/test/java/estudo2/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/target/classes/estudo2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/target/classes/estudo2/dominio/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/target/classes/estudo2/dominio/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/target/classes/estudo2/dominio/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/target/classes/estudo2/dominio/Filme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/target/classes/estudo2/dominio/Musica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../estudo2/target/classes/estudo2/dominio/Pessoa.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ri5czmVtnpEE0bF7uG5Cn2Sgy3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.App.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/programasJava/estudos/Aprenda a programar em Java com Orientação a Objetos/3 - Java consumindo API, gravando arquivos e lidando com erros/estudo4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\programasJava\estudos\Aprenda a programar em Java com Orientação a Objetos\Java trabalhando com listas e coleções de dados\estudo3\estudo3\src\main\java\estudo3" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d361f416-4323-40e9-9511-59a70f782484" name="Changes" comment="" />
+      <created>1737029138605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737029138605</updated>
+      <workItem from="1737029139688" duration="5837000" />
+      <workItem from="1737037805887" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
