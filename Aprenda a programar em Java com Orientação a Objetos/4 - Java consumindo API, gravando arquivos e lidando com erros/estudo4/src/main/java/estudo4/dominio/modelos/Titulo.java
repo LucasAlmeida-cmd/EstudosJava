@@ -1,6 +1,10 @@
 package estudo4.dominio.modelos;
 
+import com.google.gson.annotations.SerializedName;
+import estudo4.dominio.excecao.ErroDeConversaoDeAnoException;
+
 public class Titulo {
+
     private String nome;
     private int anoDeLancamento;
     private boolean incluidoNoPlano;
@@ -16,6 +20,16 @@ public class Titulo {
         this.totalDeAvaliacoes = totalDeAvaliacoes;
         this.duracaoEmMinutos = duracaoEmMinutos;
     }
+
+    public Titulo(TituloOmdb titulo) {
+        this.nome = titulo.title();
+        if (titulo.year().length() > 4 ){
+            throw new ErroDeConversaoDeAnoException("Não consegui converter o ano, mais de 4 ");
+        }
+        this.anoDeLancamento = Integer.valueOf(titulo.year().substring(0, 3));
+        this.duracaoEmMinutos = Integer.valueOf(titulo.runtime().substring(0, 3));
+    }
+
 
     public String getNome() {
         return nome;
@@ -65,5 +79,10 @@ public class Titulo {
 
     public double pegaMedia(){
         return somaDasAvaliacoes / totalDeAvaliacoes;
+    }
+
+    @Override
+    public String toString() {
+        return "Titulo: "+ nome + "\nAno: "+ anoDeLancamento +"\nDuração em minutos: "+ duracaoEmMinutos;
     }
 }
