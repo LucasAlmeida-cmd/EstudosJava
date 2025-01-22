@@ -1,0 +1,8 @@
+[{"item":{"nome":"Bola","preco":10.0},
+  "nota":5.0,
+  "comentario":"Melhore"},
+
+
+
+
+  {"item":{"tipo":"Disney","preco":120.0},"nota":10.0,"comentario":"Bom"},{"item":{"descricao":"blabla","preco":500.0},"nota":10.0,"comentario":"Bom"}]
